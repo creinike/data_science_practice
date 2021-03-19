@@ -1,1 +1,1 @@
-# DS_ML_Practical_Cases_Python
+# Data Science Practice
